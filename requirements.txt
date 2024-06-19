@@ -3,10 +3,4 @@ Flask-PyMongo
 Flask-HTTPAuth
 Werkzeug
 bson
-"""
-Agregar un material: POST a http://127.0.0.1:5000/api/materials
-Obtener todos los materiales: GET a http://127.0.0.1:5000/api/materials
-Obtener un material por ID: GET a http://127.0.0.1:5000/api/materials/<material_id>
-Prestar un material: POST a http://127.0.0.1:5000/api/borrow
-Devolver un material: POST a http://127.0.0.1:5000/api/return
-"""
+
